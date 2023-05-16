@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\LENOVO\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(56,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\LENOVO\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(75,34): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\LENOVO\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(284,50): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\LENOVO\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(287,45): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\LENOVO\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(287,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\LENOVO\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(292,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\LENOVO\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(292,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\LENOVO\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(298,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\LENOVO\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(298,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  ConsoleApplication1.vcxproj -> C:\Users\LENOVO\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
